@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Sergey Mazein
 
+![](https://komarev.com/ghpvc/?username=semalis)
+
 ## I'm a Full-Stack developer
 
 - 🔭 I’m currently working on App Project "Trader Assistant". More than 500k downloads in the Play Market.
@@ -21,6 +23,13 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left"  alt="linux" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semalis&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=semalis&show_icons=true" />
+</details>
 
 <!--
 
