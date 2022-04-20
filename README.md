@@ -3,7 +3,8 @@
 ## I'm a Full-Stack developer
 
 - 🔭 I’m currently working on App Project "Trader Assistant". More than 500k downloads in the Play Market.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Flutter (Cross Platform Development for Android and iOS).
+- 🥀 I'm interested Machine Learning and time series forecasting.
 
 ### Languages and Tools:
 
